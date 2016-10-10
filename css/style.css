@@ -8,6 +8,10 @@ h1 {
 	margin-bottom: 30px;
 	font-size: 5em;
 }
+
+/*h1 {
+	font-size: 3em;
+}*/
 header #img1 {
 	float: right;
 	padding-right: 5px;
@@ -28,4 +32,13 @@ header #img3 {
 	padding-right: 5px;
 	width: 80px;
 	height: 35px;
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: red
+}
+a:hover {
+	background-color: lightgreen;
 }
