@@ -33,6 +33,9 @@ header #img3 {
 	width: 80px;
 	height: 35px;
 }
+a {
+	text-decoration: none;
+}
 a:link {
 	color: blue;
 }
@@ -41,4 +44,11 @@ a:visited {
 }
 a:hover {
 	background-color: lightgreen;
+	color: #ff9933;
+}
+h1:hover {
+	/*background: blue;*/
+}
+div.row {
+	margin-top: 20px;	
 }
